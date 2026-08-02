@@ -1,2 +1,18 @@
 # como-se-hace
-Un repositorio que tiene puros archivos md para describir como se hacen procesos de configuracion que se realizaron en cierto momento para no olvidar como se hace
+
+Repositorio de guías en Markdown: cómo se hacen procesos de configuración que ya se probaron (o se van a probar), para no olvidar los pasos.
+
+## Cómo está organizado
+
+- **Una carpeta = una categoría** (ej. `vps/`)
+- **Un archivo `.md` = una cosa concreta a hacer**
+- Al final de cada guía hay una sección **Notas de prueba** para anotar qué falló, qué faltó o qué se cambió al experimentarlo
+
+## Categorías
+
+### [vps/](./vps/)
+
+| Guía | Descripción |
+|------|-------------|
+| [Opciones de VPS](./vps/opciones-vps.md) | Proveedores de pago y opciones free / de prueba |
+| [Configurar proyecto Python](./vps/configurar-proyecto-python.md) | Subir y dejar corriendo una app Python en un VPS |
