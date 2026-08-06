@@ -16,3 +16,11 @@ Repositorio de guías en Markdown: cómo se hacen procesos de configuración que
 |------|-------------|
 | [Opciones de VPS](./vps/opciones-vps.md) | Proveedores de pago y opciones free / de prueba |
 | [Configurar proyecto Python](./vps/configurar-proyecto-python.md) | Subir y dejar corriendo una app Python en un VPS |
+
+### [banahosting/](./banahosting/)
+
+| Guía | Descripción |
+|------|-------------|
+| [Configurar proyecto por FTP](./banahosting/configurar-proyecto-ftp.md) | Subdominio, carpeta en `/developer`, cuenta FTP y secrets |
+| [Deploy GitHub Actions (PHP)](./banahosting/deploy-github-actions-php.md) | Workflow de deploy FTP para proyecto solo PHP |
+| [Deploy GitHub Actions (Laravel)](./banahosting/deploy-github-actions-laravel.md) | Workflow Laravel (referencia; migraciones aún pendientes) |
