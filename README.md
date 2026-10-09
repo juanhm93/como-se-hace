@@ -32,3 +32,9 @@ Repositorio de guías en Markdown: cómo se hacen procesos de configuración que
 | Guía | Descripción |
 |------|-------------|
 | [Deploy sitio estático (S3 + CloudFront)](./aws/deploy-sitio-estatico-cloudfront.md) | Build local, subida a S3 e invalidación de CloudFront |
+
+### [claude-config/](./claude-config/)
+
+| Guía | Descripción |
+|------|-------------|
+| [Prompts de configuración inicial](./claude-config/prompts-configuracion-inicial.md) | Analizar la arquitectura, crear el `CLAUDE.md`, levantar el backend y analizar el impacto de un feature |
