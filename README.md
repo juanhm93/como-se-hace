@@ -38,3 +38,9 @@ Repositorio de guías en Markdown: cómo se hacen procesos de configuración que
 | Guía | Descripción |
 |------|-------------|
 | [Prompts de configuración inicial](./claude-config/prompts-configuracion-inicial.md) | Analizar la arquitectura, crear el `CLAUDE.md`, levantar el backend y analizar el impacto de un feature |
+
+### [desarrollo-local/](./desarrollo-local/)
+
+| Guía | Descripción |
+|------|-------------|
+| [Configurar Mailpit (Laravel)](./desarrollo-local/configurar-mailpit-laravel.md) | Bandeja de correo local con Docker para probar envíos sin Mailtrap ni límites |
